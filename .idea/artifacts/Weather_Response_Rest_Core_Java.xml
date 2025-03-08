@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Weather Response Rest Core Java">
+    <output-path>$PROJECT_DIR$/out/artifacts/Weather_Response_Rest_Core_Java</output-path>
+    <root id="archive" name="Weather Response Rest Core Java.jar" />
+  </artifact>
+</component>
